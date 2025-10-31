@@ -1,0 +1,6 @@
+<?php 
+# Página de registro
+
+
+
+?>

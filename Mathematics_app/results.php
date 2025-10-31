@@ -1,0 +1,5 @@
+<?php 
+
+# Historial de resultados
+
+?>

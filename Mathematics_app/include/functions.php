@@ -1,0 +1,5 @@
+<?php
+# Funciones de Auxiliares
+
+
+?>

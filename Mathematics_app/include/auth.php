@@ -1,0 +1,7 @@
+<?php
+# Funciones de autenticación
+
+
+?>
+
+
